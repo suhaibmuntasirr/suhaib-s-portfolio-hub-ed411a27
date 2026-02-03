@@ -23,7 +23,7 @@ const Index = () => {
             — building a p2p way to share handwritten notes for k-12.
           </p>
 
-          <p>prev @akashgonga</p>
+          <p>prev @akashgonga ; bangladesh's largest astro/astrophysics edtech platform 3k+ students across all-divisions</p>
 
           <p>
             reach me at{" "}
