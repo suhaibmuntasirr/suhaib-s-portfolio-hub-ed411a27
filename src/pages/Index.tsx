@@ -34,8 +34,6 @@ const Index = () => {
               suhaib@fakibaz.app
             </a>
           </p>
-
-          <p>~ suhaib muntasir</p>
         </article>
 
         {/* Social Links */}
