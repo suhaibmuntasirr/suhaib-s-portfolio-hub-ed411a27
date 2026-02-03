@@ -5,14 +5,12 @@ const Index = () => {
     <main className="min-h-screen bg-background px-6 py-16 md:px-12 lg:px-24">
       <div className="mx-auto max-w-2xl">
         {/* Bio Section */}
-        <article className="space-y-6 text-lg leading-relaxed md:text-xl md:leading-relaxed">
-          <h1 className="greeting-text text-2xl md:text-3xl">
-            hey, i'm suhaib.
-          </h1>
+        <article className="space-y-6 text-base leading-relaxed">
+          <p>hey, i'm suhaib.</p>
 
-          <p className="text-foreground">17.</p>
+          <p>17.</p>
 
-          <p className="text-foreground">
+          <p>
             i'm the founder of{" "}
             <a
               href="https://fakibaz.app"
@@ -25,12 +23,9 @@ const Index = () => {
             — building a p2p way to share handwritten notes for k-12.
           </p>
 
-          <p className="text-foreground">
-            prev{" "}
-            <span className="text-muted-foreground">@akashgonga</span>
-          </p>
+          <p>prev @akashgonga</p>
 
-          <p className="text-foreground">
+          <p>
             reach me at{" "}
             <a
               href="mailto:suhaib@fakibaz.app"
@@ -40,7 +35,7 @@ const Index = () => {
             </a>
           </p>
 
-          <p className="greeting-text text-foreground">~ suhaib muntasir</p>
+          <p>~ suhaib muntasir</p>
         </article>
 
         {/* Social Links */}
